@@ -8,4 +8,4 @@ Aquí encontrarás algunos ejercicios de arduino
 * [Temperatura y humedad con DTH11 y Liquid Crystal I2C](https://github.com/gunhack/EjerciciosArduino/tree/master/Ejemplos/DTH11_LiquidCrystal_I2C)
 * [Humedad del suelo](https://github.com/gunhack/EjerciciosArduino/tree/master/Ejemplos/Soil_Moisture_Sensor)
 * [Servomotor](https://github.com/gunhack/EjerciciosArduino/tree/master/Ejemplos/Servomotor)
-
+* [Ethernet Shield y DTH11](https://github.com/gunhack/EjerciciosArduino/tree/master/Ejemplos/EthernetShield_DTH11)
